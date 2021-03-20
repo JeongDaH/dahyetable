@@ -22,14 +22,14 @@
   }
 
   td {
-      width: 150px;
-      height: 30px;
+      width: 75px;
+      height: 20px;
   }
   #title{
       font-size: 2rem;
       text-align: center; /*텍스트를 중간으로*/
       border-bottom: 1px solid gray;
-      margin:0;
+      margin:10px;
   }
 
   #sub{
@@ -67,8 +67,8 @@
 </style>
 </head>
 <body>
-<table width=400 height="600" style="color: #121212">
-<caption>▶   정다혜 ^∪^ 시간표  ◀</caption>
+<table width=400 height="400" style="color: #121212">
+<h1 id="title">▶   정다혜 ^∪^시간표  ◀</h1>
   <tr width=19%>
     <th></th>
     <th>월</th>
